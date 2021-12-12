@@ -1,3 +1,5 @@
+# 自用白名单
+自己更新
 # SwitchyOmega-Whitelist
 适用于 SwitchyOmega 的中国网站白名单，主要内容来自 [felixonmars/dnsmasq-china-list](https://github.com/felixonmars/dnsmasq-china-list)，纯列表，自动更新。
 
